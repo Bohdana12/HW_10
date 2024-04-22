@@ -1,11 +1,3 @@
-  275  cd QA
-  276  cd HW_10
-  277  git checkout main
-  278  git merge develop
-  279  git log
-  280  cd Desktop
-  281  cd QA
-  282  cd HW_10
   283  git checkout main
   284  history > command_list.csv
   285  git merge develop
@@ -14,3 +6,11 @@
   288  cd QA
   289  cd HW_10
   290  git checkout main
+  291  history > command_list.csv
+  292  git add .
+  293  git commit -m "Commit"
+  294  git push
+  295  cd Desktop
+  296  cd QA
+  297  cd HW_10
+  298  git checkout main 
