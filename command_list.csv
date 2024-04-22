@@ -1,0 +1,16 @@
+  275  cd QA
+  276  cd HW_10
+  277  git checkout main
+  278  git merge develop
+  279  git log
+  280  cd Desktop
+  281  cd QA
+  282  cd HW_10
+  283  git checkout main
+  284  history > command_list.csv
+  285  git merge develop
+  286  git log
+  287  cd Desktop
+  288  cd QA
+  289  cd HW_10
+  290  git checkout main
